@@ -1,3 +1,5 @@
+// scan strings and print it all in the same line 
+
 #include <stdio.h>
 int main()
 {
@@ -6,4 +8,4 @@ int main()
    printf("%s", str);
  
    return 0;
-}
+} 
