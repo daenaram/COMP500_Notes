@@ -1,4 +1,4 @@
-// scan string w space and prints in new line 
+// scan string w spaces
 
 #include <stdio.h>
  
